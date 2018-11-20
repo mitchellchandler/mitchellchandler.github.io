@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <title>
+    Brightness outside my bedroom!
+  </title>
+  <head>
+    <header style="text-align:center">
+      <h1>
+				<a href="index.html">Home</a>
+				<a href="contact.html">Contact</a>
+				<a href="news.html">News</a>
+				<a href="about.html">About</a>
+			</h1>
+    </header>
+  </head>
+  <body>
+    <h2>
+      <p style="text-align:center">
+        This page is dedicated to the light that shines so ever brightly into my life
+      </p>
+    </h2>
+    
